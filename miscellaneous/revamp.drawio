@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-13T13:51:20.556Z" agent="5.0 (X11)" etag="Mqi5MuwPmZWzOKU-aQSW" version="14.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-13T13:55:21.590Z" agent="5.0 (X11)" etag="Yc7MRhTbaTOXPAggF3IW" version="14.3.1" type="github" pages="4">
   <diagram id="HqueQWfNLCLhg1whZo9X" name="modules">
     <mxGraphModel dx="2062" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -348,25 +348,25 @@
       <root>
         <mxCell id="yIh0vuGxAedoSUnFbcXJ-0" />
         <mxCell id="yIh0vuGxAedoSUnFbcXJ-1" parent="yIh0vuGxAedoSUnFbcXJ-0" />
-        <mxCell id="yIh0vuGxAedoSUnFbcXJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;" edge="1" parent="yIh0vuGxAedoSUnFbcXJ-1" source="yIh0vuGxAedoSUnFbcXJ-2" target="yIh0vuGxAedoSUnFbcXJ-3">
+        <mxCell id="yIh0vuGxAedoSUnFbcXJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;sourcePerimeterSpacing=6;" edge="1" parent="yIh0vuGxAedoSUnFbcXJ-1" source="yIh0vuGxAedoSUnFbcXJ-2" target="yIh0vuGxAedoSUnFbcXJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yIh0vuGxAedoSUnFbcXJ-2" value="&lt;div&gt;Frontend Client&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;React.js web application, Android app etc.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yIh0vuGxAedoSUnFbcXJ-1">
+        <mxCell id="yIh0vuGxAedoSUnFbcXJ-2" value="&lt;div&gt;Frontend Client&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;React.js web application, Android app etc.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yIh0vuGxAedoSUnFbcXJ-1">
           <mxGeometry x="200" y="40" width="400" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yIh0vuGxAedoSUnFbcXJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;shadow=0;" edge="1" parent="yIh0vuGxAedoSUnFbcXJ-1" source="yIh0vuGxAedoSUnFbcXJ-3" target="yIh0vuGxAedoSUnFbcXJ-5">
+        <mxCell id="yIh0vuGxAedoSUnFbcXJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;shadow=0;targetPerimeterSpacing=6;" edge="1" parent="yIh0vuGxAedoSUnFbcXJ-1" source="yIh0vuGxAedoSUnFbcXJ-3" target="yIh0vuGxAedoSUnFbcXJ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yIh0vuGxAedoSUnFbcXJ-3" value="Cloudflare proxy servers" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="yIh0vuGxAedoSUnFbcXJ-1">
+        <mxCell id="yIh0vuGxAedoSUnFbcXJ-3" value="Cloudflare proxy servers" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="yIh0vuGxAedoSUnFbcXJ-1">
           <mxGeometry x="280" y="220" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="yIh0vuGxAedoSUnFbcXJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;" edge="1" parent="yIh0vuGxAedoSUnFbcXJ-1" source="yIh0vuGxAedoSUnFbcXJ-5" target="yIh0vuGxAedoSUnFbcXJ-7">
+        <mxCell id="yIh0vuGxAedoSUnFbcXJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;targetPerimeterSpacing=6;sourcePerimeterSpacing=6;" edge="1" parent="yIh0vuGxAedoSUnFbcXJ-1" source="yIh0vuGxAedoSUnFbcXJ-5" target="yIh0vuGxAedoSUnFbcXJ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yIh0vuGxAedoSUnFbcXJ-5" value="&lt;div&gt;Backend Client&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Asynchronous API client running on containerized deployment&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="yIh0vuGxAedoSUnFbcXJ-1">
+        <mxCell id="yIh0vuGxAedoSUnFbcXJ-5" value="&lt;div&gt;Backend Client&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Asynchronous API client running on containerized deployment&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yIh0vuGxAedoSUnFbcXJ-1">
           <mxGeometry x="200" y="440" width="400" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yIh0vuGxAedoSUnFbcXJ-7" value="&lt;div&gt;Database&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SQL database instance&lt;br&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=0;" vertex="1" parent="yIh0vuGxAedoSUnFbcXJ-1">
+        <mxCell id="yIh0vuGxAedoSUnFbcXJ-7" value="&lt;div&gt;Database&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SQL database instance&lt;br&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="yIh0vuGxAedoSUnFbcXJ-1">
           <mxGeometry x="280" y="640" width="240" height="140" as="geometry" />
         </mxCell>
       </root>
