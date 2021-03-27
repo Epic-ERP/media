@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-27T13:00:39.272Z" agent="5.0 (X11)" etag="tX_t4nIFmvw78gEYILB-" version="14.5.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-03-27T13:01:52.628Z" agent="5.0 (X11)" etag="pj0xmdBsv0e_qH24YtUK" version="14.5.3" type="github" pages="7">
   <diagram id="HqueQWfNLCLhg1whZo9X" name="modules">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -765,7 +765,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="kOZAMZGAT4X_DYPKE-4f" name="Timetable">
+  <diagram id="kOZAMZGAT4X_DYPKE-4f" name="Timetable &amp; Attendance">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="KxfSPaALY7bhobxBRgQk-0" />
